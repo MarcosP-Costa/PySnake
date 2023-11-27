@@ -75,19 +75,19 @@ def selecionar_velocidade(tecla, x, y):
     if tecla == pygame.K_DOWN and y != -tamanho_quadrado:
         velocidade_x = 0
         velocidade_y = tamanho_quadrado
-        print("Baixo")
+
     elif tecla == pygame.K_UP and y != tamanho_quadrado:
         velocidade_x = 0
         velocidade_y = -tamanho_quadrado
-        print("Cima")
+      
     elif tecla == pygame.K_RIGHT and x != -tamanho_quadrado:
         velocidade_x = tamanho_quadrado
         velocidade_y = 0
-        print("Direita")
+   
     elif tecla == pygame.K_LEFT and x != tamanho_quadrado:
         velocidade_x = -tamanho_quadrado
         velocidade_y = 0   
-        print("Esquerda")
+      
     else:
         
         velocidade_x = x
