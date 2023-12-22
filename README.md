@@ -28,5 +28,5 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encon
 
 ## Autor
 
-[Marcos Paulo](https://github.com/MarcosP-Costa?tab=repositories)
+Este projeto foi desenvolvido por [Marcos Paulo](https://github.com/MarcosP-Costa?tab=repositories).
 
